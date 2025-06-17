@@ -1,0 +1,6 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+30:BD:13:30:1C:7E, 2025-06-17 19:22:21, 2025-06-17 19:23:48,  6, 130, WPA2 WPA, CCMP TKIP, PSK, -28,      783,        0,   0.  0.  0.  0,  16, Airtel_ouse_3303, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+
