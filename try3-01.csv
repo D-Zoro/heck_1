@@ -1,0 +1,10 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+98:DA:C4:D5:EB:9B, 2025-06-19 12:17:21, 2025-06-19 12:18:13,  5, 195, WPA2, CCMP TKIP, PSK, -74,      348,     9906,   0.  0.  0.  0,  15, wayne_tower_2.4, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+12:8A:E0:1F:7F:61, 2025-06-19 12:17:21, 2025-06-19 12:18:13, -78,     9969, 98:DA:C4:D5:EB:9B,
+F2:8E:0E:4B:CC:A1, 2025-06-19 12:17:21, 2025-06-19 12:18:10, -77,       44, 98:DA:C4:D5:EB:9B,
+9A:79:DD:1B:D9:15, 2025-06-19 12:17:21, 2025-06-19 12:17:54, -84,     1201, 98:DA:C4:D5:EB:9B,
+2E:CF:02:D8:27:85, 2025-06-19 12:17:24, 2025-06-19 12:18:12, -93,       19, 98:DA:C4:D5:EB:9B,
+
